@@ -48,6 +48,10 @@ Marketable During Economic Downturns:
 Encourages income generation for people who need quick cash or additional income streams.
 Differentiators:
 
+## Idea 2
+
+App that can use links to track availability of items online thru web scraping or api
+
 Unlike large platforms, this app focuses on micro-gigs that can be done in an hour or two, targeting tasks too small for big freelancing platforms.
 Hyper-local targeting ensures relevance for both parties.
 Promotes upskilling to increase user retention and engagement.
