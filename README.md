@@ -55,3 +55,7 @@ App that can use links to track availability of items online thru web scraping o
 Unlike large platforms, this app focuses on micro-gigs that can be done in an hour or two, targeting tasks too small for big freelancing platforms.
 Hyper-local targeting ensures relevance for both parties.
 Promotes upskilling to increase user retention and engagement.
+
+** Idea 3
+
+Backend software with full software testing APIs. Find codecanal project. 
