@@ -173,8 +173,6 @@ Program the FPGA with the bitstream.
 Prepare and debug hardware/software interactions.
 Cross-Compile and Deploy:
 
-get bsp package
-
 Cross-compile your Qt QML application using the PetaLinux SDK.
 Deploy the Linux image and application to the board.
 Run the Application:
