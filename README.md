@@ -179,5 +179,4 @@ Run the Application:
 
 Boot the board, run the application, and view it on the external screen.
 
-
-build in vitis now
+cant build project
