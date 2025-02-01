@@ -179,4 +179,12 @@ Run the Application:
 
 Boot the board, run the application, and view it on the external screen.
 
-cant build project
+
+
+CAPSTONE NOTES:
+
+Tried to run using BSP
+Found gen-machineconf file:
+karry@KayesYoga9i:/mnt/c/Users/karry/Capstone/CapstoneBSP$ find / -name gen-machineconf 2>/dev/null
+/mnt/c/Users/karry/Capstone/CapstoneBSP/components/yocto/layers/meta-xilinx/meta-xilinx-core/gen-machine-conf/gen-machineconf
+/mnt/c/Users/karry/Capstone/CapstoneBSP/components/yocto/layers/meta-xilinx/meta-xilinx-core/gen-machine-conf/lib/gen-machineconf
