@@ -190,3 +190,5 @@ karry@KayesYoga9i:/mnt/c/Users/karry/Capstone/CapstoneBSP$ find / -name gen-mach
 /mnt/c/Users/karry/Capstone/CapstoneBSP/components/yocto/layers/meta-xilinx/meta-xilinx-core/gen-machine-conf/lib/gen-machineconf
 
 successful build
+
+boot with sd card
